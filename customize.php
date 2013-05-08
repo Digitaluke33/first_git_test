@@ -28,7 +28,7 @@ $registered = $wp_scripts->registered;
 $wp_scripts = new WP_Scripts;
 $wp_scripts->registered = $registered;
 
-add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 ); add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 );add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 );add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 );
+add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 ); add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 );add_action( 'customize_controls_print_scripts',        'print_head_scripts', 20 );add_action(
 add_action( 'customize_controls_print_footer_scripts', '_wp_footer_scripts'     );
 add_action( 'customize_controls_print_styles',         'print_admin_styles', 20 );
 
