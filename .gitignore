@@ -1,0 +1,4 @@
+*.supdog
+tempfile.txt
+*.zip
+*.gz
