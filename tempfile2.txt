@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Boom! No tracking!
 New Features Baby!
 Master Brianch time!
-=======
-You're being tracked!
-New Features Baby!
->>>>>>> shorten_title
